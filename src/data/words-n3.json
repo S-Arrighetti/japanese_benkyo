@@ -1,0 +1,542 @@
+[
+  {
+    "id": "w-n3-001",
+    "japanese": "確認",
+    "reading": "かくにん",
+    "korean": "확인",
+    "level": "N3",
+    "example": "予約を確認してください。",
+    "exampleKorean": "예약을 확인해 주세요."
+  },
+  {
+    "id": "w-n3-002",
+    "japanese": "連絡",
+    "reading": "れんらく",
+    "korean": "연락",
+    "level": "N3",
+    "example": "後で連絡します。",
+    "exampleKorean": "나중에 연락할게요."
+  },
+  {
+    "id": "w-n3-003",
+    "japanese": "準備",
+    "reading": "じゅんび",
+    "korean": "준비",
+    "level": "N3",
+    "example": "出発の準備ができました。",
+    "exampleKorean": "출발 준비가 됐어요."
+  },
+  {
+    "id": "w-n3-004",
+    "japanese": "予約",
+    "reading": "よやく",
+    "korean": "예약",
+    "level": "N3",
+    "example": "レストランを予約しました。",
+    "exampleKorean": "레스토랑을 예약했어요."
+  },
+  {
+    "id": "w-n3-005",
+    "japanese": "説明",
+    "reading": "せつめい",
+    "korean": "설명",
+    "level": "N3",
+    "example": "使い方を説明してもらえますか。",
+    "exampleKorean": "사용법을 설명해 주실 수 있어요?"
+  },
+  {
+    "id": "w-n3-006",
+    "japanese": "注意",
+    "reading": "ちゅうい",
+    "korean": "주의",
+    "level": "N3",
+    "example": "足元に注意してください。",
+    "exampleKorean": "발밑을 조심하세요."
+  },
+  {
+    "id": "w-n3-007",
+    "japanese": "経験",
+    "reading": "けいけん",
+    "korean": "경험",
+    "level": "N3",
+    "example": "海外旅行の経験がありますか。",
+    "exampleKorean": "해외여행 경험이 있으세요?"
+  },
+  {
+    "id": "w-n3-008",
+    "japanese": "気持ち",
+    "reading": "きもち",
+    "korean": "기분, 마음",
+    "level": "N3",
+    "example": "今日は気持ちがいいです。",
+    "exampleKorean": "오늘은 기분이 좋아요."
+  },
+  {
+    "id": "w-n3-009",
+    "japanese": "文化",
+    "reading": "ぶんか",
+    "korean": "문화",
+    "level": "N3",
+    "example": "日本の文化に興味があります。",
+    "exampleKorean": "일본 문화에 관심이 있어요."
+  },
+  {
+    "id": "w-n3-010",
+    "japanese": "習慣",
+    "reading": "しゅうかん",
+    "korean": "습관",
+    "level": "N3",
+    "example": "毎朝運動する習慣があります。",
+    "exampleKorean": "매일 아침 운동하는 습관이 있어요."
+  },
+  {
+    "id": "w-n3-011",
+    "japanese": "変わる",
+    "reading": "かわる",
+    "korean": "변하다, 바뀌다",
+    "level": "N3",
+    "example": "天気が急に変わりました。",
+    "exampleKorean": "날씨가 갑자기 바뀌었어요."
+  },
+  {
+    "id": "w-n3-012",
+    "japanese": "選ぶ",
+    "reading": "えらぶ",
+    "korean": "고르다, 선택하다",
+    "level": "N3",
+    "example": "好きなものを選んでください。",
+    "exampleKorean": "좋아하는 것을 골라 주세요."
+  },
+  {
+    "id": "w-n3-013",
+    "japanese": "続ける",
+    "reading": "つづける",
+    "korean": "계속하다",
+    "level": "N3",
+    "example": "毎日練習を続けています。",
+    "exampleKorean": "매일 연습을 계속하고 있어요."
+  },
+  {
+    "id": "w-n3-014",
+    "japanese": "断る",
+    "reading": "ことわる",
+    "korean": "거절하다",
+    "level": "N3",
+    "example": "その誘いを断りました。",
+    "exampleKorean": "그 초대를 거절했어요."
+  },
+  {
+    "id": "w-n3-015",
+    "japanese": "比べる",
+    "reading": "くらべる",
+    "korean": "비교하다",
+    "level": "N3",
+    "example": "二つの商品を比べてみました。",
+    "exampleKorean": "두 제품을 비교해 봤어요."
+  },
+  {
+    "id": "w-n3-016",
+    "japanese": "集める",
+    "reading": "あつめる",
+    "korean": "모으다, 수집하다",
+    "level": "N3",
+    "example": "切手を集めるのが趣味です。",
+    "exampleKorean": "우표를 모으는 게 취미예요."
+  },
+  {
+    "id": "w-n3-017",
+    "japanese": "増える",
+    "reading": "ふえる",
+    "korean": "늘다, 증가하다",
+    "level": "N3",
+    "example": "観光客が増えています。",
+    "exampleKorean": "관광객이 늘고 있어요."
+  },
+  {
+    "id": "w-n3-018",
+    "japanese": "減る",
+    "reading": "へる",
+    "korean": "줄다, 감소하다",
+    "level": "N3",
+    "example": "睡眠時間が減ってしまいました。",
+    "exampleKorean": "수면 시간이 줄어버렸어요."
+  },
+  {
+    "id": "w-n3-019",
+    "japanese": "驚く",
+    "reading": "おどろく",
+    "korean": "놀라다",
+    "level": "N3",
+    "example": "その知らせに驚きました。",
+    "exampleKorean": "그 소식에 깜짝 놀랐어요."
+  },
+  {
+    "id": "w-n3-020",
+    "japanese": "困る",
+    "reading": "こまる",
+    "korean": "곤란하다, 난처하다",
+    "level": "N3",
+    "example": "道に迷って困っています。",
+    "exampleKorean": "길을 잃어서 곤란해요."
+  },
+  {
+    "id": "w-n3-021",
+    "japanese": "丁寧",
+    "reading": "ていねい",
+    "korean": "정중한, 친절한",
+    "level": "N3",
+    "example": "彼はいつも丁寧な言葉を使います。",
+    "exampleKorean": "그는 항상 정중한 말을 써요."
+  },
+  {
+    "id": "w-n3-022",
+    "japanese": "正直",
+    "reading": "しょうじき",
+    "korean": "솔직한, 정직한",
+    "level": "N3",
+    "example": "正直に話してください。",
+    "exampleKorean": "솔직하게 말해 주세요."
+  },
+  {
+    "id": "w-n3-023",
+    "japanese": "複雑",
+    "reading": "ふくざつ",
+    "korean": "복잡한",
+    "level": "N3",
+    "example": "この問題は複雑です。",
+    "exampleKorean": "이 문제는 복잡해요."
+  },
+  {
+    "id": "w-n3-024",
+    "japanese": "親切",
+    "reading": "しんせつ",
+    "korean": "친절한",
+    "level": "N3",
+    "example": "駅員さんが親切に教えてくれました。",
+    "exampleKorean": "역무원이 친절하게 알려줬어요."
+  },
+  {
+    "id": "w-n3-025",
+    "japanese": "便利",
+    "reading": "べんり",
+    "korean": "편리한",
+    "level": "N3",
+    "example": "このアプリはとても便利です。",
+    "exampleKorean": "이 앱은 정말 편리해요."
+  },
+  {
+    "id": "w-n3-026",
+    "japanese": "不便",
+    "reading": "ふべん",
+    "korean": "불편한",
+    "level": "N3",
+    "example": "車がないと不便な場所です。",
+    "exampleKorean": "차가 없으면 불편한 곳이에요."
+  },
+  {
+    "id": "w-n3-027",
+    "japanese": "残念",
+    "reading": "ざんねん",
+    "korean": "아쉬운, 유감스러운",
+    "level": "N3",
+    "example": "行けなくて残念です。",
+    "exampleKorean": "못 가게 돼서 아쉬워요."
+  },
+  {
+    "id": "w-n3-028",
+    "japanese": "急ぐ",
+    "reading": "いそぐ",
+    "korean": "서두르다",
+    "level": "N3",
+    "example": "時間がないので急いでください。",
+    "exampleKorean": "시간이 없으니 서둘러 주세요."
+  },
+  {
+    "id": "w-n3-029",
+    "japanese": "必要",
+    "reading": "ひつよう",
+    "korean": "필요한",
+    "level": "N3",
+    "example": "ビザが必要ですか。",
+    "exampleKorean": "비자가 필요한가요?"
+  },
+  {
+    "id": "w-n3-030",
+    "japanese": "十分",
+    "reading": "じゅうぶん",
+    "korean": "충분한",
+    "level": "N3",
+    "example": "睡眠を十分に取ることが大切です。",
+    "exampleKorean": "잠을 충분히 자는 것이 중요해요."
+  },
+  {
+    "id": "w-n3-031",
+    "japanese": "やっと",
+    "reading": "やっと",
+    "korean": "드디어, 겨우",
+    "level": "N3",
+    "example": "やっと宿題が終わりました。",
+    "exampleKorean": "드디어 숙제가 끝났어요."
+  },
+  {
+    "id": "w-n3-032",
+    "japanese": "もしかして",
+    "reading": "もしかして",
+    "korean": "혹시",
+    "level": "N3",
+    "example": "もしかして、田中さんですか。",
+    "exampleKorean": "혹시 다나카 씨인가요?"
+  },
+  {
+    "id": "w-n3-033",
+    "japanese": "なるべく",
+    "reading": "なるべく",
+    "korean": "가능한 한, 되도록",
+    "level": "N3",
+    "example": "なるべく早く返事をします。",
+    "exampleKorean": "가능한 한 빨리 답장할게요."
+  },
+  {
+    "id": "w-n3-034",
+    "japanese": "だいたい",
+    "reading": "だいたい",
+    "korean": "대략, 대체로",
+    "level": "N3",
+    "example": "駅まででだいたい10分かかります。",
+    "exampleKorean": "역까지 대략 10분 걸려요."
+  },
+  {
+    "id": "w-n3-035",
+    "japanese": "特に",
+    "reading": "とくに",
+    "korean": "특히",
+    "level": "N3",
+    "example": "特に問題はありません。",
+    "exampleKorean": "특별히 문제는 없어요."
+  },
+  {
+    "id": "w-n3-036",
+    "japanese": "最近",
+    "reading": "さいきん",
+    "korean": "최근, 요즘",
+    "level": "N3",
+    "example": "最近、忙しいですか。",
+    "exampleKorean": "요즘 바쁘세요?"
+  },
+  {
+    "id": "w-n3-037",
+    "japanese": "場合",
+    "reading": "ばあい",
+    "korean": "경우",
+    "level": "N3",
+    "example": "緊急の場合はこちらに電話してください。",
+    "exampleKorean": "긴급한 경우에는 여기로 전화해 주세요."
+  },
+  {
+    "id": "w-n3-038",
+    "japanese": "理由",
+    "reading": "りゆう",
+    "korean": "이유",
+    "level": "N3",
+    "example": "遅刻した理由を教えてください。",
+    "exampleKorean": "지각한 이유를 알려 주세요."
+  },
+  {
+    "id": "w-n3-039",
+    "japanese": "関係",
+    "reading": "かんけい",
+    "korean": "관계",
+    "level": "N3",
+    "example": "それは私には関係ありません。",
+    "exampleKorean": "그건 저와는 관계없어요."
+  },
+  {
+    "id": "w-n3-040",
+    "japanese": "影響",
+    "reading": "えいきょう",
+    "korean": "영향",
+    "level": "N3",
+    "example": "台風の影響で電車が止まりました。",
+    "exampleKorean": "태풍의 영향으로 전철이 멈췄어요."
+  },
+  {
+    "id": "w-n3-041",
+    "japanese": "機会",
+    "reading": "きかい",
+    "korean": "기회",
+    "level": "N3",
+    "example": "いい機会なので挑戦してみます。",
+    "exampleKorean": "좋은 기회니까 도전해 볼게요."
+  },
+  {
+    "id": "w-n3-042",
+    "japanese": "目的",
+    "reading": "もくてき",
+    "korean": "목적",
+    "level": "N3",
+    "example": "旅行の目的は何ですか。",
+    "exampleKorean": "여행 목적이 뭔가요?"
+  },
+  {
+    "id": "w-n3-043",
+    "japanese": "費用",
+    "reading": "ひよう",
+    "korean": "비용",
+    "level": "N3",
+    "example": "引越しの費用はどのくらいですか。",
+    "exampleKorean": "이사 비용은 얼마나 돼요?"
+  },
+  {
+    "id": "w-n3-044",
+    "japanese": "期間",
+    "reading": "きかん",
+    "korean": "기간",
+    "level": "N3",
+    "example": "滞在期間はどのくらいですか。",
+    "exampleKorean": "체류 기간은 얼마나 돼요?"
+  },
+  {
+    "id": "w-n3-045",
+    "japanese": "方法",
+    "reading": "ほうほう",
+    "korean": "방법",
+    "level": "N3",
+    "example": "もっといい方法があります。",
+    "exampleKorean": "더 좋은 방법이 있어요."
+  },
+  {
+    "id": "w-n3-046",
+    "japanese": "様子",
+    "reading": "ようす",
+    "korean": "상황, 모습",
+    "level": "N3",
+    "example": "子供の様子を見てきます。",
+    "exampleKorean": "아이 상황을 보고 올게요."
+  },
+  {
+    "id": "w-n3-047",
+    "japanese": "態度",
+    "reading": "たいど",
+    "korean": "태도",
+    "level": "N3",
+    "example": "彼の態度が気になります。",
+    "exampleKorean": "그의 태도가 신경 쓰여요."
+  },
+  {
+    "id": "w-n3-048",
+    "japanese": "記念",
+    "reading": "きねん",
+    "korean": "기념",
+    "level": "N3",
+    "example": "旅行の記念に写真を撮りました。",
+    "exampleKorean": "여행 기념으로 사진을 찍었어요."
+  },
+  {
+    "id": "w-n3-049",
+    "japanese": "相談",
+    "reading": "そうだん",
+    "korean": "상담, 상의",
+    "level": "N3",
+    "example": "困ったときはいつでも相談してください。",
+    "exampleKorean": "힘들 때는 언제든지 상담해 주세요."
+  },
+  {
+    "id": "w-n3-050",
+    "japanese": "申し込む",
+    "reading": "もうしこむ",
+    "korean": "신청하다",
+    "level": "N3",
+    "example": "コースに申し込みました。",
+    "exampleKorean": "코스에 신청했어요."
+  },
+  {
+    "id": "w-n3-051",
+    "japanese": "手伝う",
+    "reading": "てつだう",
+    "korean": "돕다, 거들다",
+    "level": "N3",
+    "example": "引越しを手伝いましょうか。",
+    "exampleKorean": "이사를 도와드릴까요?"
+  },
+  {
+    "id": "w-n3-052",
+    "japanese": "諦める",
+    "reading": "あきらめる",
+    "korean": "포기하다",
+    "level": "N3",
+    "example": "まだ諦めないでください。",
+    "exampleKorean": "아직 포기하지 마세요."
+  },
+  {
+    "id": "w-n3-053",
+    "japanese": "迷う",
+    "reading": "まよう",
+    "korean": "망설이다, 헤매다",
+    "level": "N3",
+    "example": "どちらにするか迷っています。",
+    "exampleKorean": "어느 쪽으로 할지 망설이고 있어요."
+  },
+  {
+    "id": "w-n3-054",
+    "japanese": "確かめる",
+    "reading": "たしかめる",
+    "korean": "확인하다, 확실히 하다",
+    "level": "N3",
+    "example": "もう一度確かめてみます。",
+    "exampleKorean": "한 번 더 확인해 볼게요."
+  },
+  {
+    "id": "w-n3-055",
+    "japanese": "片付ける",
+    "reading": "かたづける",
+    "korean": "정리하다, 치우다",
+    "level": "N3",
+    "example": "部屋を片付けてから出かけます。",
+    "exampleKorean": "방을 정리하고 나서 외출해요."
+  },
+  {
+    "id": "w-n3-056",
+    "japanese": "締め切り",
+    "reading": "しめきり",
+    "korean": "마감",
+    "level": "N3",
+    "example": "締め切りはいつですか。",
+    "exampleKorean": "마감이 언제예요?"
+  },
+  {
+    "id": "w-n3-057",
+    "japanese": "以上",
+    "reading": "いじょう",
+    "korean": "이상",
+    "level": "N3",
+    "example": "18歳以上の方が対象です。",
+    "exampleKorean": "18세 이상인 분이 대상이에요."
+  },
+  {
+    "id": "w-n3-058",
+    "japanese": "以下",
+    "reading": "いか",
+    "korean": "이하",
+    "level": "N3",
+    "example": "3000円以下のものを探しています。",
+    "exampleKorean": "3000엔 이하인 것을 찾고 있어요."
+  },
+  {
+    "id": "w-n3-059",
+    "japanese": "予定",
+    "reading": "よてい",
+    "korean": "예정",
+    "level": "N3",
+    "example": "来週の予定を教えてください。",
+    "exampleKorean": "다음 주 예정을 알려 주세요."
+  },
+  {
+    "id": "w-n3-060",
+    "japanese": "報告",
+    "reading": "ほうこく",
+    "korean": "보고",
+    "level": "N3",
+    "example": "結果を報告します。",
+    "exampleKorean": "결과를 보고할게요."
+  }
+]

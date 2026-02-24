@@ -1,0 +1,362 @@
+[
+  {
+    "id": "w-n1-001",
+    "japanese": "懸念",
+    "reading": "けねん",
+    "korean": "우려, 염려",
+    "level": "N1",
+    "example": "地球温暖化に対する懸念が高まっている。",
+    "exampleKorean": "지구 온난화에 대한 우려가 높아지고 있다."
+  },
+  {
+    "id": "w-n1-002",
+    "japanese": "斡旋",
+    "reading": "あっせん",
+    "korean": "알선, 중개",
+    "level": "N1",
+    "example": "労働局が職業の斡旋を行っている。",
+    "exampleKorean": "노동국이 직업 알선을 실시하고 있다."
+  },
+  {
+    "id": "w-n1-003",
+    "japanese": "逡巡",
+    "reading": "しゅんじゅん",
+    "korean": "주저, 망설임",
+    "level": "N1",
+    "example": "彼は決断を下すことに逡巡していた。",
+    "exampleKorean": "그는 결단을 내리는 것을 주저하고 있었다."
+  },
+  {
+    "id": "w-n1-004",
+    "japanese": "忌避",
+    "reading": "きひ",
+    "korean": "기피, 회피",
+    "level": "N1",
+    "example": "危険な業務を忌避する傾向が見られる。",
+    "exampleKorean": "위험한 업무를 기피하는 경향이 나타나고 있다."
+  },
+  {
+    "id": "w-n1-005",
+    "japanese": "瑕疵",
+    "reading": "かし",
+    "korean": "하자, 결함",
+    "level": "N1",
+    "example": "契約書に瑕疵が発見され、取引が白紙に戻った。",
+    "exampleKorean": "계약서에서 하자가 발견되어 거래가 원점으로 돌아갔다."
+  },
+  {
+    "id": "w-n1-006",
+    "japanese": "嚆矢",
+    "reading": "こうし",
+    "korean": "효시, 시초",
+    "level": "N1",
+    "example": "この作品は日本近代小説の嚆矢とされている。",
+    "exampleKorean": "이 작품은 일본 근대 소설의 효시로 여겨지고 있다."
+  },
+  {
+    "id": "w-n1-007",
+    "japanese": "僭越",
+    "reading": "せんえつ",
+    "korean": "주제넘음, 분수에 넘침",
+    "level": "N1",
+    "example": "僭越ながら、一言申し上げたいと存じます。",
+    "exampleKorean": "주제넘습니다만, 한 말씀 드리고 싶습니다."
+  },
+  {
+    "id": "w-n1-008",
+    "japanese": "蹂躙",
+    "reading": "じゅうりん",
+    "korean": "유린, 침해",
+    "level": "N1",
+    "example": "国民の権利が権力によって蹂躙された。",
+    "exampleKorean": "국민의 권리가 권력에 의해 유린되었다."
+  },
+  {
+    "id": "w-n1-009",
+    "japanese": "払拭",
+    "reading": "ふっしょく",
+    "korean": "불식, 일소",
+    "level": "N1",
+    "example": "国民の不信感を払拭するための措置が求められる。",
+    "exampleKorean": "국민의 불신감을 불식시키기 위한 조치가 요구된다."
+  },
+  {
+    "id": "w-n1-010",
+    "japanese": "齟齬",
+    "reading": "そご",
+    "korean": "어긋남, 불일치",
+    "level": "N1",
+    "example": "両者の主張に齟齬が生じ、交渉は難航した。",
+    "exampleKorean": "양자의 주장이 어긋나 협상이 난항을 겪었다."
+  },
+  {
+    "id": "w-n1-011",
+    "japanese": "逼迫",
+    "reading": "ひっぱく",
+    "korean": "핍박, 절박, 궁핍",
+    "level": "N1",
+    "example": "財政が逼迫しており、予算の削減が避けられない。",
+    "exampleKorean": "재정이 핍박하여 예산 삭감이 불가피하다."
+  },
+  {
+    "id": "w-n1-012",
+    "japanese": "恣意",
+    "reading": "しい",
+    "korean": "자의, 제멋대로",
+    "level": "N1",
+    "example": "恣意的な解釈は法の公正性を損なう。",
+    "exampleKorean": "자의적인 해석은 법의 공정성을 해친다."
+  },
+  {
+    "id": "w-n1-013",
+    "japanese": "隘路",
+    "reading": "あいろ",
+    "korean": "애로, 난관",
+    "level": "N1",
+    "example": "改革を進める上での隘路を打開する必要がある。",
+    "exampleKorean": "개혁을 추진하는 데 있어서의 애로를 타개할 필요가 있다."
+  },
+  {
+    "id": "w-n1-014",
+    "japanese": "忖度",
+    "reading": "そんたく",
+    "korean": "눈치 보기, 타인의 심중을 헤아림",
+    "level": "N1",
+    "example": "上司の意向を忖度して行動することが多い。",
+    "exampleKorean": "상사의 의향을 헤아려 행동하는 경우가 많다."
+  },
+  {
+    "id": "w-n1-015",
+    "japanese": "矜持",
+    "reading": "きょうじ",
+    "korean": "긍지, 자부심",
+    "level": "N1",
+    "example": "職人は自らの技術に矜持を持って仕事に臨む。",
+    "exampleKorean": "장인은 자신의 기술에 긍지를 갖고 일에 임한다."
+  },
+  {
+    "id": "w-n1-016",
+    "japanese": "閑却",
+    "reading": "かんきゃく",
+    "korean": "등한시, 소홀히 함",
+    "level": "N1",
+    "example": "安全対策を閑却した結果、重大な事故が発生した。",
+    "exampleKorean": "안전 대책을 등한시한 결과, 중대한 사고가 발생했다."
+  },
+  {
+    "id": "w-n1-017",
+    "japanese": "逓減",
+    "reading": "ていげん",
+    "korean": "체감, 점차 감소",
+    "level": "N1",
+    "example": "収益は年々逓減しており、抜本的な改革が必要だ。",
+    "exampleKorean": "수익이 매년 체감하고 있어 근본적인 개혁이 필요하다."
+  },
+  {
+    "id": "w-n1-018",
+    "japanese": "敷衍",
+    "reading": "ふえん",
+    "korean": "부연, 상세한 설명",
+    "level": "N1",
+    "example": "論点を敷衍して説明することで理解が深まった。",
+    "exampleKorean": "논점을 부연하여 설명함으로써 이해가 깊어졌다."
+  },
+  {
+    "id": "w-n1-019",
+    "japanese": "忘却",
+    "reading": "ぼうきゃく",
+    "korean": "망각",
+    "level": "N1",
+    "example": "歴史的な過ちを忘却してはならない。",
+    "exampleKorean": "역사적인 과오를 망각해서는 안 된다."
+  },
+  {
+    "id": "w-n1-020",
+    "japanese": "憂慮",
+    "reading": "ゆうりょ",
+    "korean": "우려, 걱정",
+    "level": "N1",
+    "example": "国際情勢の悪化を憂慮する声が上がっている。",
+    "exampleKorean": "국제 정세의 악화를 우려하는 목소리가 높아지고 있다."
+  },
+  {
+    "id": "w-n1-021",
+    "japanese": "翻弄",
+    "reading": "ほんろう",
+    "korean": "농락, 휘둘림",
+    "level": "N1",
+    "example": "運命に翻弄された人生を描いた小説だ。",
+    "exampleKorean": "운명에 농락당한 인생을 그린 소설이다."
+  },
+  {
+    "id": "w-n1-022",
+    "japanese": "跋扈",
+    "reading": "ばっこ",
+    "korean": "발호, 횡행",
+    "level": "N1",
+    "example": "不正が跋扈する社会を変えなければならない。",
+    "exampleKorean": "부정이 횡행하는 사회를 바꾸지 않으면 안 된다."
+  },
+  {
+    "id": "w-n1-023",
+    "japanese": "憑依",
+    "reading": "ひょうい",
+    "korean": "빙의, 신들림",
+    "level": "N1",
+    "example": "役者が役に憑依したかのような演技を見せた。",
+    "exampleKorean": "배우가 역할에 빙의된 듯한 연기를 선보였다."
+  },
+  {
+    "id": "w-n1-024",
+    "japanese": "糾弾",
+    "reading": "きゅうだん",
+    "korean": "규탄, 탄핵",
+    "level": "N1",
+    "example": "不正を行った政治家を糾弾する集会が開かれた。",
+    "exampleKorean": "부정을 저지른 정치인을 규탄하는 집회가 열렸다."
+  },
+  {
+    "id": "w-n1-025",
+    "japanese": "帰趨",
+    "reading": "きすう",
+    "korean": "귀추, 결말, 귀결",
+    "level": "N1",
+    "example": "交渉の帰趨が今後の経済情勢を左右する。",
+    "exampleKorean": "협상의 귀추가 향후 경제 정세를 좌우한다."
+  },
+  {
+    "id": "w-n1-026",
+    "japanese": "凋落",
+    "reading": "ちょうらく",
+    "korean": "조락, 쇠퇴, 몰락",
+    "level": "N1",
+    "example": "かつて栄華を誇った帝国の凋落は著しかった。",
+    "exampleKorean": "한때 영화를 자랑하던 제국의 쇠퇴는 현저하였다."
+  },
+  {
+    "id": "w-n1-027",
+    "japanese": "醸成",
+    "reading": "じょうせい",
+    "korean": "양성, 조성, 형성",
+    "level": "N1",
+    "example": "相互理解を醸成するための対話が不可欠だ。",
+    "exampleKorean": "상호 이해를 조성하기 위한 대화가 불가결하다."
+  },
+  {
+    "id": "w-n1-028",
+    "japanese": "峻別",
+    "reading": "しゅんべつ",
+    "korean": "준별, 엄격한 구별",
+    "level": "N1",
+    "example": "公私の別を峻別することが公務員に求められる。",
+    "exampleKorean": "공사의 구분을 엄격히 구별하는 것이 공무원에게 요구된다."
+  },
+  {
+    "id": "w-n1-029",
+    "japanese": "惹起",
+    "reading": "じゃっき",
+    "korean": "야기, 유발",
+    "level": "N1",
+    "example": "その発言は国際的な外交問題を惹起した。",
+    "exampleKorean": "그 발언은 국제적인 외교 문제를 야기했다."
+  },
+  {
+    "id": "w-n1-030",
+    "japanese": "漸進",
+    "reading": "ぜんしん",
+    "korean": "점진, 점차적 진행",
+    "level": "N1",
+    "example": "漸進的な改革こそが社会の安定をもたらす。",
+    "exampleKorean": "점진적인 개혁이야말로 사회의 안정을 가져온다."
+  },
+  {
+    "id": "w-n1-031",
+    "japanese": "頓挫",
+    "reading": "とんざ",
+    "korean": "좌절, 중단",
+    "level": "N1",
+    "example": "資金不足により計画が頓挫してしまった。",
+    "exampleKorean": "자금 부족으로 인해 계획이 좌절되고 말았다."
+  },
+  {
+    "id": "w-n1-032",
+    "japanese": "懈怠",
+    "reading": "けたい",
+    "korean": "태만, 게으름",
+    "level": "N1",
+    "example": "職務上の懈怠は厳しく問われることになる。",
+    "exampleKorean": "직무상의 태만은 엄격하게 문책받게 된다."
+  },
+  {
+    "id": "w-n1-033",
+    "japanese": "僥倖",
+    "reading": "ぎょうこう",
+    "korean": "요행, 뜻밖의 행운",
+    "level": "N1",
+    "example": "勝利は実力ではなく僥倖によるものだった。",
+    "exampleKorean": "승리는 실력이 아니라 요행에 의한 것이었다."
+  },
+  {
+    "id": "w-n1-034",
+    "japanese": "紐帯",
+    "reading": "ちゅうたい",
+    "korean": "유대, 결속",
+    "level": "N1",
+    "example": "文化的な紐帯が両国の関係を強固にしている。",
+    "exampleKorean": "문화적인 유대가 양국의 관계를 공고히 하고 있다."
+  },
+  {
+    "id": "w-n1-035",
+    "japanese": "鼓舞",
+    "reading": "こぶ",
+    "korean": "고무, 격려",
+    "level": "N1",
+    "example": "指導者の言葉が国民を鼓舞し、士気が高まった。",
+    "exampleKorean": "지도자의 말이 국민을 고무하여 사기가 높아졌다."
+  },
+  {
+    "id": "w-n1-036",
+    "japanese": "乖離",
+    "reading": "かいり",
+    "korean": "괴리, 동떨어짐",
+    "level": "N1",
+    "example": "理念と現実の乖離が政策の失敗を招いた。",
+    "exampleKorean": "이념과 현실의 괴리가 정책의 실패를 초래했다."
+  },
+  {
+    "id": "w-n1-037",
+    "japanese": "喚起",
+    "reading": "かんき",
+    "korean": "환기, 불러일으킴",
+    "level": "N1",
+    "example": "この作品は読者の歴史意識を喚起する力を持つ。",
+    "exampleKorean": "이 작품은 독자의 역사 의식을 환기하는 힘을 지닌다."
+  },
+  {
+    "id": "w-n1-038",
+    "japanese": "逸脱",
+    "reading": "いつだつ",
+    "korean": "일탈, 벗어남",
+    "level": "N1",
+    "example": "規範からの逸脱行為は社会秩序を乱す。",
+    "exampleKorean": "규범에서의 일탈 행위는 사회 질서를 어지럽힌다."
+  },
+  {
+    "id": "w-n1-039",
+    "japanese": "俯瞰",
+    "reading": "ふかん",
+    "korean": "부감, 조망, 전체적으로 내려다봄",
+    "level": "N1",
+    "example": "問題を俯瞰する視点を持つことが重要だ。",
+    "exampleKorean": "문제를 조망하는 시각을 갖는 것이 중요하다."
+  },
+  {
+    "id": "w-n1-040",
+    "japanese": "蓋然性",
+    "reading": "がいぜんせい",
+    "korean": "개연성, 가능성",
+    "level": "N1",
+    "example": "その仮説が正しい蓋然性は極めて高い。",
+    "exampleKorean": "그 가설이 옳을 개연성은 극히 높다."
+  }
+]

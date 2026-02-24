@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "p-daily-001",
+    "category": "daily",
+    "japanese": "お世話になっております。",
+    "reading": "おせわになっております。",
+    "korean": "신세를 지고 있습니다. (처음 연락 시 인사)",
+    "situation": "처음 연락하거나 업무 관계에서 감사 인사를 전할 때 사용합니다."
+  },
+  {
+    "id": "p-daily-002",
+    "category": "daily",
+    "japanese": "おはようございます。",
+    "reading": "おはようございます。",
+    "korean": "좋은 아침입니다. (정중한 아침 인사)",
+    "situation": "아침에 만나는 사람에게 정중하게 인사할 때 사용합니다. 친한 사이에는 'おはよう'라고 줄여서 말합니다."
+  },
+  {
+    "id": "p-daily-003",
+    "category": "daily",
+    "japanese": "こんにちは。",
+    "reading": "こんにちは。",
+    "korean": "안녕하세요. (낮 인사)",
+    "situation": "낮 시간대(오전 11시~오후 6시경)에 만나는 사람에게 인사할 때 사용합니다."
+  },
+  {
+    "id": "p-daily-004",
+    "category": "daily",
+    "japanese": "こんばんは。",
+    "reading": "こんばんは。",
+    "korean": "안녕하세요. (저녁 인사)",
+    "situation": "저녁 시간대에 만나는 사람에게 인사할 때 사용합니다."
+  },
+  {
+    "id": "p-daily-005",
+    "category": "daily",
+    "japanese": "ありがとうございます。",
+    "reading": "ありがとうございます。",
+    "korean": "감사합니다. (정중한 감사 표현)",
+    "situation": "누군가에게 도움을 받거나 감사한 일이 있을 때 정중하게 사용합니다."
+  },
+  {
+    "id": "p-daily-006",
+    "category": "daily",
+    "japanese": "すみません。",
+    "reading": "すみません。",
+    "korean": "실례합니다 / 죄송합니다. (주의 끌기 또는 가벼운 사과)",
+    "situation": "누군가에게 말을 걸거나 길을 물을 때, 또는 가볍게 사과할 때 두루 쓰이는 표현입니다."
+  },
+  {
+    "id": "p-daily-007",
+    "category": "daily",
+    "japanese": "申し訳ございません。",
+    "reading": "もうしわけございません。",
+    "korean": "대단히 죄송합니다. (격식체 사과)",
+    "situation": "비즈니스 상황이나 격식 있는 자리에서 깊이 사과할 때 사용하는 매우 정중한 표현입니다."
+  },
+  {
+    "id": "p-daily-008",
+    "category": "daily",
+    "japanese": "よろしくお願いします。",
+    "reading": "よろしくおねがいします。",
+    "korean": "잘 부탁드립니다. (협조 요청 인사)",
+    "situation": "처음 만남, 부탁, 또는 업무 마무리 시 두루 쓰이는 일본어 필수 표현입니다."
+  },
+  {
+    "id": "p-daily-009",
+    "category": "daily",
+    "japanese": "はじめまして。",
+    "reading": "はじめまして。",
+    "korean": "처음 뵙겠습니다.",
+    "situation": "처음 만나는 사람에게 자기소개를 시작할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-daily-010",
+    "category": "daily",
+    "japanese": "お名前は何ですか？",
+    "reading": "おなまえはなんですか？",
+    "korean": "성함이 어떻게 되세요?",
+    "situation": "처음 만난 사람에게 이름을 물을 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "id": "p-daily-011",
+    "category": "daily",
+    "japanese": "どうぞよろしく。",
+    "reading": "どうぞよろしく。",
+    "korean": "잘 부탁해요. (캐주얼한 부탁 인사)",
+    "situation": "친한 사이 또는 캐주얼한 상황에서 'よろしくお願いします'의 격식을 낮춘 표현입니다."
+  },
+  {
+    "id": "p-daily-012",
+    "category": "daily",
+    "japanese": "お元気ですか？",
+    "reading": "おげんきですか？",
+    "korean": "잘 지내셨어요?",
+    "situation": "오랜만에 만나거나 안부를 물을 때 사용하는 인사 표현입니다."
+  },
+  {
+    "id": "p-daily-013",
+    "category": "daily",
+    "japanese": "おかげさまで、元気です。",
+    "reading": "おかげさまで、げんきです。",
+    "korean": "덕분에 잘 지내고 있습니다.",
+    "situation": "'お元気ですか'에 대한 정중한 대답으로, 상대방에 대한 감사함을 담은 표현입니다."
+  },
+  {
+    "id": "p-daily-014",
+    "category": "daily",
+    "japanese": "失礼します。",
+    "reading": "しつれいします。",
+    "korean": "실례하겠습니다. (자리를 뜨거나 먼저 말을 꺼낼 때)",
+    "situation": "방을 나가거나 먼저 전화를 끊을 때, 또는 누군가의 앞을 지나칠 때 사용합니다."
+  },
+  {
+    "id": "p-daily-015",
+    "category": "daily",
+    "japanese": "お邪魔します。",
+    "reading": "おじゃまします。",
+    "korean": "실례하겠습니다. (남의 집 방문 시)",
+    "situation": "다른 사람의 집이나 방에 들어갈 때 반드시 사용하는 일본의 예절 표현입니다."
+  },
+  {
+    "id": "p-daily-016",
+    "category": "daily",
+    "japanese": "いただきます。",
+    "reading": "いただきます。",
+    "korean": "잘 먹겠습니다. (식사 시작 전 인사)",
+    "situation": "식사를 시작하기 전에 반드시 하는 일본의 식사 예절 표현입니다."
+  },
+  {
+    "id": "p-daily-017",
+    "category": "daily",
+    "japanese": "ごちそうさまでした。",
+    "reading": "ごちそうさまでした。",
+    "korean": "잘 먹었습니다. (식사 후 인사)",
+    "situation": "식사를 마친 후 음식을 준비해준 사람이나 함께 식사한 사람에게 하는 표현입니다."
+  },
+  {
+    "id": "p-daily-018",
+    "category": "daily",
+    "japanese": "行ってきます。",
+    "reading": "いってきます。",
+    "korean": "다녀오겠습니다.",
+    "situation": "집이나 직장을 나설 때 남아있는 사람에게 하는 인사 표현입니다."
+  },
+  {
+    "id": "p-daily-019",
+    "category": "daily",
+    "japanese": "ただいま。",
+    "reading": "ただいま。",
+    "korean": "다녀왔습니다.",
+    "situation": "집에 돌아왔을 때 하는 인사 표현입니다. 'お帰り(なさい)'가 이에 대한 대답입니다."
+  },
+  {
+    "id": "p-daily-020",
+    "category": "daily",
+    "japanese": "お疲れ様でした。",
+    "reading": "おつかれさまでした。",
+    "korean": "수고하셨습니다.",
+    "situation": "하루 일과를 마치거나 힘든 일을 마친 동료, 상사에게 하는 인사 표현입니다."
+  },
+  {
+    "id": "p-daily-021",
+    "category": "daily",
+    "japanese": "少々お待ちください。",
+    "reading": "しょうしょうおまちください。",
+    "korean": "잠시만 기다려 주세요.",
+    "situation": "상대방에게 잠깐 기다려달라고 정중하게 요청할 때 사용합니다."
+  },
+  {
+    "id": "p-daily-022",
+    "category": "daily",
+    "japanese": "もう一度言っていただけますか？",
+    "reading": "もういちどいっていただけますか？",
+    "korean": "한 번 더 말씀해 주시겠어요?",
+    "situation": "상대방의 말을 잘 못 들었거나 이해하지 못했을 때 다시 말해달라고 정중하게 부탁하는 표현입니다."
+  },
+  {
+    "id": "p-daily-023",
+    "category": "daily",
+    "japanese": "ゆっくり話してもらえますか？",
+    "reading": "ゆっくりはなしてもらえますか？",
+    "korean": "천천히 말해 주시겠어요?",
+    "situation": "상대방이 너무 빠르게 말할 때 속도를 늦춰달라고 부탁하는 표현입니다."
+  },
+  {
+    "id": "p-daily-024",
+    "category": "daily",
+    "japanese": "日本語があまり上手ではありません。",
+    "reading": "にほんごがあまりじょうずではありません。",
+    "korean": "일본어를 그다지 잘 하지 못합니다.",
+    "situation": "자신의 일본어 실력이 충분하지 않음을 미리 양해를 구할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-daily-025",
+    "category": "daily",
+    "japanese": "英語は話せますか？",
+    "reading": "えいごははなせますか？",
+    "korean": "영어 하실 수 있으세요?",
+    "situation": "언어 소통이 어려울 때 영어로 대화할 수 있는지 물어보는 표현입니다."
+  },
+  {
+    "id": "p-daily-026",
+    "category": "daily",
+    "japanese": "トイレはどこですか？",
+    "reading": "トイレはどこですか？",
+    "korean": "화장실이 어디에 있나요?",
+    "situation": "공공장소나 건물 내에서 화장실 위치를 물을 때 사용하는 기본 표현입니다."
+  },
+  {
+    "id": "p-daily-027",
+    "category": "daily",
+    "japanese": "〜はどこにありますか？",
+    "reading": "〜はどこにありますか？",
+    "korean": "~은/는 어디에 있나요?",
+    "situation": "특정 장소나 물건의 위치를 물을 때 사용하는 기본 표현입니다. 〜에 찾는 것을 넣어 사용합니다."
+  },
+  {
+    "id": "p-daily-028",
+    "category": "daily",
+    "japanese": "〜までどのくらいかかりますか？",
+    "reading": "〜までどのくらいかかりますか？",
+    "korean": "~까지 얼마나 걸리나요?",
+    "situation": "목적지까지의 소요 시간이나 거리를 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-daily-029",
+    "category": "daily",
+    "japanese": "写真を撮ってもいいですか？",
+    "reading": "しゃしんをとってもいいですか？",
+    "korean": "사진을 찍어도 괜찮을까요?",
+    "situation": "누군가의 사진을 찍거나 특정 장소에서 촬영하기 전에 허락을 구하는 표현입니다."
+  },
+  {
+    "id": "p-daily-030",
+    "category": "daily",
+    "japanese": "気をつけて。",
+    "reading": "きをつけて。",
+    "korean": "조심해요 / 잘 가요. (헤어질 때 인사)",
+    "situation": "헤어질 때 상대방의 안전을 바라며 하는 인사 표현입니다. 정중하게는 'お気をつけて'라고 합니다."
+  },
+  {
+    "id": "p-travel-001",
+    "category": "travel",
+    "japanese": "パスポートを見せてください。",
+    "reading": "パスポートをみせてください。",
+    "korean": "여권을 보여 주세요.",
+    "situation": "공항 출입국 심사나 호텔 체크인 시 직원이 여권을 요청할 때 듣게 되는 표현입니다."
+  },
+  {
+    "id": "p-travel-002",
+    "category": "travel",
+    "japanese": "搭乗ゲートはどこですか？",
+    "reading": "とうじょうゲートはどこですか？",
+    "korean": "탑승 게이트가 어디에 있나요?",
+    "situation": "공항에서 탑승구 위치를 찾을 때 직원에게 물어보는 표현입니다."
+  },
+  {
+    "id": "p-travel-003",
+    "category": "travel",
+    "japanese": "荷物を預けたいのですが。",
+    "reading": "にもつをあずけたいのですが。",
+    "korean": "짐을 맡기고 싶은데요.",
+    "situation": "공항 체크인 카운터나 호텔에서 짐을 맡길 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-004",
+    "category": "travel",
+    "japanese": "チェックインをお願いします。",
+    "reading": "チェックインをおねがいします。",
+    "korean": "체크인 부탁드립니다.",
+    "situation": "호텔 프런트에서 체크인을 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-005",
+    "category": "travel",
+    "japanese": "予約をしております。〜と申します。",
+    "reading": "よやくをしております。〜ともうします。",
+    "korean": "예약을 했습니다. ~라고 합니다.",
+    "situation": "호텔이나 레스토랑에서 예약 확인을 받을 때 자신의 이름과 함께 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-006",
+    "category": "travel",
+    "japanese": "部屋のカギをなくしてしまいました。",
+    "reading": "へやのカギをなくしてしまいました。",
+    "korean": "방 열쇠를 잃어버렸습니다.",
+    "situation": "호텔에서 방 열쇠를 분실했을 때 프런트에 알리는 표현입니다."
+  },
+  {
+    "id": "p-travel-007",
+    "category": "travel",
+    "japanese": "〜行きの電車は何番ホームですか？",
+    "reading": "〜ゆきのでんしゃはなんばんホームですか？",
+    "korean": "~행 전철은 몇 번 승강장인가요?",
+    "situation": "기차역에서 목적지 방향 열차의 승강장 번호를 물어볼 때 사용합니다."
+  },
+  {
+    "id": "p-travel-008",
+    "category": "travel",
+    "japanese": "〜まで一枚ください。",
+    "reading": "〜までいちまいください。",
+    "korean": "~까지 한 장 주세요.",
+    "situation": "기차역이나 버스 정류장에서 목적지까지의 표 한 장을 구매할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-009",
+    "category": "travel",
+    "japanese": "この電車は〜に止まりますか？",
+    "reading": "このでんしゃは〜にとまりますか？",
+    "korean": "이 전철은 ~에 서나요?",
+    "situation": "탑승한 전철이 원하는 역에 정차하는지 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-010",
+    "category": "travel",
+    "japanese": "タクシーを呼んでいただけますか？",
+    "reading": "タクシーをよんでいただけますか？",
+    "korean": "택시를 불러 주시겠어요?",
+    "situation": "호텔이나 레스토랑 직원에게 택시를 불러달라고 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-011",
+    "category": "travel",
+    "japanese": "〜まで行ってください。",
+    "reading": "〜までいってください。",
+    "korean": "~까지 가 주세요.",
+    "situation": "택시를 탔을 때 운전기사에게 목적지를 알려주는 기본 표현입니다."
+  },
+  {
+    "id": "p-travel-012",
+    "category": "travel",
+    "japanese": "ここで降ろしてください。",
+    "reading": "ここでおろしてください。",
+    "korean": "여기에서 내려 주세요.",
+    "situation": "택시나 버스에서 원하는 위치에서 하차하고 싶을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-013",
+    "category": "travel",
+    "japanese": "観光スポットを教えてもらえますか？",
+    "reading": "かんこうスポットをおしえてもらえますか？",
+    "korean": "관광 명소를 알려 주시겠어요?",
+    "situation": "호텔 직원이나 현지인에게 추천 관광지를 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-014",
+    "category": "travel",
+    "japanese": "地図をいただけますか？",
+    "reading": "ちずをいただけますか？",
+    "korean": "지도를 받을 수 있을까요?",
+    "situation": "관광 안내소나 호텔에서 지도를 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-015",
+    "category": "travel",
+    "japanese": "ここから歩いていけますか？",
+    "reading": "ここからあるいていけますか？",
+    "korean": "여기서 걸어서 갈 수 있나요?",
+    "situation": "목적지까지 도보로 이동이 가능한지 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-016",
+    "category": "travel",
+    "japanese": "入場料はいくらですか？",
+    "reading": "にゅうじょうりょうはいくらですか？",
+    "korean": "입장료는 얼마인가요?",
+    "situation": "관광지나 박물관, 테마파크 등의 입장 비용을 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-017",
+    "category": "travel",
+    "japanese": "何時に開きますか？",
+    "reading": "なんじにあきますか？",
+    "korean": "몇 시에 열어요?",
+    "situation": "관광지, 가게, 레스토랑 등의 영업 시작 시간을 물을 때 사용합니다."
+  },
+  {
+    "id": "p-travel-018",
+    "category": "travel",
+    "japanese": "何時まで営業していますか？",
+    "reading": "なんじまでえいぎょうしていますか？",
+    "korean": "몇 시까지 영업하나요?",
+    "situation": "가게나 시설의 영업 종료 시간을 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-019",
+    "category": "travel",
+    "japanese": "荷物を一時預かりしてもらえますか？",
+    "reading": "にもつをいちじあずかりしてもらえますか？",
+    "korean": "짐을 잠시 맡아 주시겠어요?",
+    "situation": "관광 중 무거운 짐을 임시로 맡아달라고 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-020",
+    "category": "travel",
+    "japanese": "バスは何番に乗ればいいですか？",
+    "reading": "バスはなんばんにのればいいですか？",
+    "korean": "버스는 몇 번을 타면 되나요?",
+    "situation": "특정 목적지에 가기 위해 탑승해야 할 버스 번호를 물어보는 표현입니다."
+  },
+  {
+    "id": "p-travel-021",
+    "category": "travel",
+    "japanese": "乗り換えはどこでしますか？",
+    "reading": "のりかえはどこでしますか？",
+    "korean": "환승은 어디서 하나요?",
+    "situation": "대중교통 이용 시 환승 장소를 물어볼 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-022",
+    "category": "travel",
+    "japanese": "チェックアウトは何時ですか？",
+    "reading": "チェックアウトはなんじですか？",
+    "korean": "체크아웃은 몇 시인가요?",
+    "situation": "호텔에서 퇴실 시간을 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-023",
+    "category": "travel",
+    "japanese": "レイトチェックアウトはできますか？",
+    "reading": "レイトチェックアウトはできますか？",
+    "korean": "늦은 체크아웃 가능한가요?",
+    "situation": "호텔 정규 퇴실 시간 이후에 늦게 체크아웃하고 싶을 때 요청하는 표현입니다."
+  },
+  {
+    "id": "p-travel-024",
+    "category": "travel",
+    "japanese": "近くにコンビニはありますか？",
+    "reading": "ちかくにコンビニはありますか？",
+    "korean": "근처에 편의점이 있나요?",
+    "situation": "숙소나 관광지 주변의 편의점 위치를 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-025",
+    "category": "travel",
+    "japanese": "道に迷ってしまいました。",
+    "reading": "みちにまよってしまいました。",
+    "korean": "길을 잃어버렸습니다.",
+    "situation": "길을 찾지 못해 도움을 요청할 때 상황을 설명하는 표현입니다."
+  },
+  {
+    "id": "p-travel-026",
+    "category": "travel",
+    "japanese": "この住所に行きたいのですが。",
+    "reading": "このじゅうしょにいきたいのですが。",
+    "korean": "이 주소로 가고 싶은데요.",
+    "situation": "지도나 메모를 보여주며 특정 주소로 가는 방법을 물을 때 사용합니다."
+  },
+  {
+    "id": "p-travel-027",
+    "category": "travel",
+    "japanese": "Wi-Fiのパスワードを教えてもらえますか？",
+    "reading": "Wi-FiのパスワードをおしえてもらえますかMY？",
+    "korean": "Wi-Fi 비밀번호를 알려 주시겠어요?",
+    "situation": "호텔이나 카페에서 무선 인터넷 비밀번호를 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-028",
+    "category": "travel",
+    "japanese": "空港まで何分かかりますか？",
+    "reading": "くうこうまでなんぷんかかりますか？",
+    "korean": "공항까지 몇 분 걸리나요?",
+    "situation": "공항까지의 이동 소요 시간을 물어볼 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-029",
+    "category": "travel",
+    "japanese": "免税店はどこにありますか？",
+    "reading": "めんぜいてんはどこにありますか？",
+    "korean": "면세점은 어디에 있나요?",
+    "situation": "공항이나 쇼핑몰에서 면세점 위치를 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-travel-030",
+    "category": "travel",
+    "japanese": "両替をしたいのですが、どこでできますか？",
+    "reading": "りょうがえをしたいのですが、どこでできますか？",
+    "korean": "환전을 하고 싶은데, 어디서 할 수 있나요?",
+    "situation": "외화를 엔화로 환전하고 싶을 때 환전소 위치를 물어보는 표현입니다."
+  },
+  {
+    "id": "p-business-001",
+    "category": "business",
+    "japanese": "会議を始めましょう。",
+    "reading": "かいぎをはじめましょう。",
+    "korean": "회의를 시작합시다.",
+    "situation": "회의를 시작할 때 참석자들에게 알리는 표현입니다."
+  },
+  {
+    "id": "p-business-002",
+    "category": "business",
+    "japanese": "ご提案についてご説明させていただきます。",
+    "reading": "ごていあんについてごせつめいさせていただきます。",
+    "korean": "제안에 대해 설명해 드리겠습니다.",
+    "situation": "회의나 발표에서 자신의 제안을 소개할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "id": "p-business-003",
+    "category": "business",
+    "japanese": "ご質問はありますか？",
+    "reading": "ごしつもんはありますか？",
+    "korean": "질문이 있으신가요?",
+    "situation": "발표나 설명이 끝난 후 청중에게 질문을 유도하는 표현입니다."
+  },
+  {
+    "id": "p-business-004",
+    "category": "business",
+    "japanese": "確認させていただきます。",
+    "reading": "かくにんさせていただきます。",
+    "korean": "확인해 보겠습니다.",
+    "situation": "무언가를 확인해야 할 때 정중하게 사용하는 비즈니스 표현입니다."
+  },
+  {
+    "id": "p-business-005",
+    "category": "business",
+    "japanese": "ご連絡いただきありがとうございます。",
+    "reading": "ごれんらくいただきありがとうございます。",
+    "korean": "연락 주셔서 감사합니다.",
+    "situation": "이메일이나 전화 등 비즈니스 연락을 받았을 때 첫 인사로 사용하는 표현입니다."
+  },
+  {
+    "id": "p-business-006",
+    "category": "business",
+    "japanese": "〜の件でご連絡いたしました。",
+    "reading": "〜のけんでごれんらくいたしました。",
+    "korean": "~건으로 연락 드렸습니다.",
+    "situation": "이메일이나 전화에서 연락 목적을 밝힐 때 사용하는 비즈니스 표현입니다."
+  },
+  {
+    "id": "p-business-007",
+    "category": "business",
+    "japanese": "ご都合のよろしい時間を教えていただけますか？",
+    "reading": "ごつごうのよろしいじかんをおしえていただけますか？",
+    "korean": "편하신 시간을 알려 주시겠어요?",
+    "situation": "미팅이나 통화 일정을 잡기 위해 상대방에게 가능한 시간을 물을 때 사용합니다."
+  },
+  {
+    "id": "p-business-008",
+    "category": "business",
+    "japanese": "資料をお送りします。",
+    "reading": "しりょうをおおくりします。",
+    "korean": "자료를 보내 드리겠습니다.",
+    "situation": "이메일로 문서나 파일을 첨부해 발송할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-business-009",
+    "category": "business",
+    "japanese": "ご確認のほど、よろしくお願いいたします。",
+    "reading": "ごかくにんのほど、よろしくおねがいいたします。",
+    "korean": "확인해 주시기 바랍니다. (이메일 마무리 표현)",
+    "situation": "이메일을 마무리하며 상대방에게 내용 확인을 정중하게 부탁할 때 사용합니다."
+  },
+  {
+    "id": "p-business-010",
+    "category": "business",
+    "japanese": "お電話ありがとうございます。〜でございます。",
+    "reading": "おでんわありがとうございます。〜でございます。",
+    "korean": "전화 주셔서 감사합니다. ~입니다.",
+    "situation": "비즈니스 전화를 받을 때 사용하는 정중한 표현으로 회사명이나 이름을 함께 말합니다."
+  },
+  {
+    "id": "p-business-011",
+    "category": "business",
+    "japanese": "少々お待ちいただけますか？",
+    "reading": "しょうしょうおまちいただけますか？",
+    "korean": "잠시만 기다려 주시겠어요?",
+    "situation": "전화 통화 중 담당자를 연결하거나 확인이 필요할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "id": "p-business-012",
+    "category": "business",
+    "japanese": "〜は只今席を外しております。",
+    "reading": "〜はただいませきをはずしております。",
+    "korean": "~는 지금 자리를 비우고 있습니다.",
+    "situation": "전화를 받았을 때 해당 담당자가 자리에 없음을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-business-013",
+    "category": "business",
+    "japanese": "折り返しご連絡いたします。",
+    "reading": "おりかえしごれんらくいたします。",
+    "korean": "다시 연락 드리겠습니다. (전화 콜백)",
+    "situation": "전화로 메시지를 남길 때 나중에 다시 연락하겠다는 의사를 전하는 표현입니다."
+  },
+  {
+    "id": "p-business-014",
+    "category": "business",
+    "japanese": "ご検討よろしくお願いいたします。",
+    "reading": "ごけんとうよろしくおねがいいたします。",
+    "korean": "검토 부탁드립니다.",
+    "situation": "제안서나 견적서를 보낸 후 상대방에게 검토를 부탁하는 표현입니다."
+  },
+  {
+    "id": "p-business-015",
+    "category": "business",
+    "japanese": "お見積もりをお送りします。",
+    "reading": "おみつもりをおおくりします。",
+    "korean": "견적서를 보내 드리겠습니다.",
+    "situation": "클라이언트에게 견적서를 발송할 때 사용하는 비즈니스 표현입니다."
+  },
+  {
+    "id": "p-business-016",
+    "category": "business",
+    "japanese": "納期はいつになりますか？",
+    "reading": "のうきはいつになりますか？",
+    "korean": "납기일은 언제가 되나요?",
+    "situation": "발주한 상품이나 프로젝트 결과물의 납품 일정을 확인할 때 사용합니다."
+  },
+  {
+    "id": "p-business-017",
+    "category": "business",
+    "japanese": "ご迷惑をおかけして申し訳ございません。",
+    "reading": "ごめいわくをおかけしてもうしわけございません。",
+    "korean": "불편을 드려서 대단히 죄송합니다.",
+    "situation": "실수나 문제 발생으로 인해 상대방에게 피해를 줬을 때 깊이 사과하는 표현입니다."
+  },
+  {
+    "id": "p-business-018",
+    "category": "business",
+    "japanese": "〜について相談したいことがあります。",
+    "reading": "〜についてそうだんしたいことがあります。",
+    "korean": "~에 대해 상담하고 싶은 게 있습니다.",
+    "situation": "업무 관련 문제나 안건을 상사나 동료와 의논하고 싶을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-business-019",
+    "category": "business",
+    "japanese": "ご意見をいただけますか？",
+    "reading": "ごいけんをいただけますか？",
+    "korean": "의견을 주시겠어요?",
+    "situation": "회의나 업무 진행 중 상대방의 의견을 요청할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "id": "p-business-020",
+    "category": "business",
+    "japanese": "おっしゃる通りです。",
+    "reading": "おっしゃるとおりです。",
+    "korean": "말씀하신 대로입니다. (동의 표현)",
+    "situation": "상대방의 의견이나 지적에 동의할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "id": "p-business-021",
+    "category": "business",
+    "japanese": "〜の点についてはいかがでしょうか？",
+    "reading": "〜のてんについてはいかがでしょうか？",
+    "korean": "~점에 대해서는 어떻게 생각하시나요?",
+    "situation": "회의 중 특정 사안에 대한 상대방의 의견을 정중하게 물을 때 사용합니다."
+  },
+  {
+    "id": "p-business-022",
+    "category": "business",
+    "japanese": "添付ファイルをご確認ください。",
+    "reading": "てんぷファイルをごかくにんください。",
+    "korean": "첨부 파일을 확인해 주세요.",
+    "situation": "이메일에 파일을 첨부했음을 알리며 확인을 요청하는 표현입니다."
+  },
+  {
+    "id": "p-business-023",
+    "category": "business",
+    "japanese": "ご不明な点がございましたら、お気軽にお問い合わせください。",
+    "reading": "ごふめいなてんがございましたら、おきがるにおといあわせください。",
+    "korean": "궁금한 점이 있으시면 편하게 문의해 주세요.",
+    "situation": "이메일이나 안내문 마지막에 자주 쓰이는 표현으로 추가 문의를 환영하는 의미입니다."
+  },
+  {
+    "id": "p-business-024",
+    "category": "business",
+    "japanese": "スケジュールを調整いたします。",
+    "reading": "スケジュールをちょうせいいたします。",
+    "korean": "일정을 조정하겠습니다.",
+    "situation": "미팅이나 업무 일정을 변경하거나 조율할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-business-025",
+    "category": "business",
+    "japanese": "以上でございます。ありがとうございました。",
+    "reading": "いじょうでございます。ありがとうございました。",
+    "korean": "이상입니다. 감사합니다. (발표 마무리)",
+    "situation": "발표나 보고를 마무리할 때 사용하는 공식적인 마무리 표현입니다."
+  },
+  {
+    "id": "p-restaurant-001",
+    "category": "restaurant",
+    "japanese": "いらっしゃいませ。何名様ですか？",
+    "reading": "いらっしゃいませ。なんめいさまですか？",
+    "korean": "어서 오세요. 몇 분이세요?",
+    "situation": "식당에 들어갔을 때 직원이 인원수를 물어보는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-002",
+    "category": "restaurant",
+    "japanese": "二人です。",
+    "reading": "ふたりです。",
+    "korean": "두 명입니다.",
+    "situation": "식당 직원이 인원수를 물을 때 대답하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-003",
+    "category": "restaurant",
+    "japanese": "メニューを見せていただけますか？",
+    "reading": "メニューをみせていただけますか？",
+    "korean": "메뉴판을 보여 주시겠어요?",
+    "situation": "식당에서 메뉴판을 요청할 때 정중하게 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-004",
+    "category": "restaurant",
+    "japanese": "おすすめはどれですか？",
+    "reading": "おすすめはどれですか？",
+    "korean": "추천 메뉴는 뭔가요?",
+    "situation": "직원에게 추천 메뉴를 물어볼 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-005",
+    "category": "restaurant",
+    "japanese": "これをください。",
+    "reading": "これをください。",
+    "korean": "이것으로 주세요.",
+    "situation": "메뉴판을 가리키며 원하는 메뉴를 주문할 때 사용하는 기본 표현입니다."
+  },
+  {
+    "id": "p-restaurant-006",
+    "category": "restaurant",
+    "japanese": "〜をひとつお願いします。",
+    "reading": "〜をひとつおねがいします。",
+    "korean": "~ 하나 주세요.",
+    "situation": "특정 메뉴를 한 개 주문할 때 사용하는 표현입니다. 수량은 상황에 맞게 변경합니다."
+  },
+  {
+    "id": "p-restaurant-007",
+    "category": "restaurant",
+    "japanese": "これはどんな料理ですか？",
+    "reading": "これはどんなりょうりですか？",
+    "korean": "이것은 어떤 요리인가요?",
+    "situation": "메뉴에 대해 잘 모를 때 직원에게 음식에 대한 설명을 요청하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-008",
+    "category": "restaurant",
+    "japanese": "辛いですか？",
+    "reading": "からいですか？",
+    "korean": "매운가요?",
+    "situation": "메뉴의 매운 정도를 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-009",
+    "category": "restaurant",
+    "japanese": "アレルギーがあるのですが、〜は入っていますか？",
+    "reading": "アレルギーがあるのですが、〜ははいっていますか？",
+    "korean": "알레르기가 있는데, ~이 들어가 있나요?",
+    "situation": "음식 알레르기가 있는 경우 특정 재료의 포함 여부를 확인하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-010",
+    "category": "restaurant",
+    "japanese": "〜抜きにしてもらえますか？",
+    "reading": "〜ぬきにしてもらえますか？",
+    "korean": "~은 빼 주시겠어요?",
+    "situation": "특정 재료를 넣지 않도록 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-011",
+    "category": "restaurant",
+    "japanese": "お水をいただけますか？",
+    "reading": "おみずをいただけますか？",
+    "korean": "물 주시겠어요?",
+    "situation": "식사 중 물을 요청할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "id": "p-restaurant-012",
+    "category": "restaurant",
+    "japanese": "お会計をお願いします。",
+    "reading": "おかいけいをおねがいします。",
+    "korean": "계산 부탁드립니다.",
+    "situation": "식사를 마친 후 계산을 요청할 때 사용하는 가장 기본적인 표현입니다."
+  },
+  {
+    "id": "p-restaurant-013",
+    "category": "restaurant",
+    "japanese": "別々に払えますか？",
+    "reading": "べつべつにはらえますか？",
+    "korean": "각자 계산할 수 있나요?",
+    "situation": "여럿이서 식사 후 각자 계산을 원할 때 확인하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-014",
+    "category": "restaurant",
+    "japanese": "カードで払えますか？",
+    "reading": "カードではらえますか？",
+    "korean": "카드로 계산할 수 있나요?",
+    "situation": "신용카드나 체크카드로 결제 가능한지 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-015",
+    "category": "restaurant",
+    "japanese": "領収書をください。",
+    "reading": "りょうしゅうしょをください。",
+    "korean": "영수증 주세요.",
+    "situation": "계산 후 영수증을 요청할 때 사용하는 표현입니다. 특히 업무 출장 시 필요합니다."
+  },
+  {
+    "id": "p-restaurant-016",
+    "category": "restaurant",
+    "japanese": "持ち帰りにできますか？",
+    "reading": "もちかえりにできますか？",
+    "korean": "포장할 수 있나요?",
+    "situation": "음식을 테이크아웃으로 포장해달라고 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-017",
+    "category": "restaurant",
+    "japanese": "注文を変えてもいいですか？",
+    "reading": "ちゅうもんをかえてもいいですか？",
+    "korean": "주문을 바꿔도 될까요?",
+    "situation": "주문한 후 마음이 바뀌어 다른 메뉴로 변경하고 싶을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-018",
+    "category": "restaurant",
+    "japanese": "まだ決まっていません。もう少し待ってください。",
+    "reading": "まだきまっていません。もうすこしまってください。",
+    "korean": "아직 결정 못 했어요. 조금만 더 기다려 주세요.",
+    "situation": "직원이 주문을 받으러 왔을 때 아직 메뉴를 정하지 못한 경우 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-019",
+    "category": "restaurant",
+    "japanese": "〜はありますか？",
+    "reading": "〜はありますか？",
+    "korean": "~이 있나요?",
+    "situation": "메뉴에 없는 특정 음식이나 음료가 있는지 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-020",
+    "category": "restaurant",
+    "japanese": "このセットには何がついてきますか？",
+    "reading": "このセットにはなにがついてきますか？",
+    "korean": "이 세트에는 무엇이 포함되어 있나요?",
+    "situation": "세트 메뉴의 구성 내용을 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-021",
+    "category": "restaurant",
+    "japanese": "お箸をください。",
+    "reading": "おはしをください。",
+    "korean": "젓가락 주세요.",
+    "situation": "젓가락이 필요할 때 직원에게 요청하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-022",
+    "category": "restaurant",
+    "japanese": "とても美味しかったです。",
+    "reading": "とてもおいしかったです。",
+    "korean": "정말 맛있었습니다.",
+    "situation": "식사 후 음식이 맛있었다고 직원이나 요리사에게 감사를 전하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-023",
+    "category": "restaurant",
+    "japanese": "禁煙席をお願いします。",
+    "reading": "きんえんせきをおねがいします。",
+    "korean": "금연석으로 부탁드립니다.",
+    "situation": "식당에서 자리를 안내받을 때 금연 구역을 요청하는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-024",
+    "category": "restaurant",
+    "japanese": "注文はまだ来ていません。",
+    "reading": "ちゅうもんはまだきていません。",
+    "korean": "주문한 음식이 아직 안 나왔어요.",
+    "situation": "주문 후 오랜 시간이 지났는데도 음식이 나오지 않을 때 직원에게 알리는 표현입니다."
+  },
+  {
+    "id": "p-restaurant-025",
+    "category": "restaurant",
+    "japanese": "これは頼んでいません。",
+    "reading": "これはたのんでいません。",
+    "korean": "이건 주문하지 않았는데요.",
+    "situation": "주문하지 않은 음식이 잘못 나왔을 때 직원에게 알리는 표현입니다."
+  },
+  {
+    "id": "p-shopping-001",
+    "category": "shopping",
+    "japanese": "いくらですか？",
+    "reading": "いくらですか？",
+    "korean": "얼마예요?",
+    "situation": "상품의 가격을 물을 때 사용하는 가장 기본적인 표현입니다."
+  },
+  {
+    "id": "p-shopping-002",
+    "category": "shopping",
+    "japanese": "これを試着してもいいですか？",
+    "reading": "これをしちゃくしてもいいですか？",
+    "korean": "이것을 입어봐도 될까요?",
+    "situation": "의류 매장에서 옷을 입어보고 싶을 때 직원에게 허락을 구하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-003",
+    "category": "shopping",
+    "japanese": "試着室はどこですか？",
+    "reading": "しちゃくしつはどこですか？",
+    "korean": "탈의실은 어디에 있나요?",
+    "situation": "의류 매장에서 탈의실 위치를 물을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-004",
+    "category": "shopping",
+    "japanese": "別のサイズはありますか？",
+    "reading": "べつのサイズはありますか？",
+    "korean": "다른 사이즈가 있나요?",
+    "situation": "현재 사이즈가 맞지 않아 다른 사이즈를 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-005",
+    "category": "shopping",
+    "japanese": "別の色はありますか？",
+    "reading": "べつのいろはありますか？",
+    "korean": "다른 색상은 있나요?",
+    "situation": "원하는 색상이 없거나 다른 색상 옵션을 확인하고 싶을 때 사용합니다."
+  },
+  {
+    "id": "p-shopping-006",
+    "category": "shopping",
+    "japanese": "少し高いですね。もう少し安くなりませんか？",
+    "reading": "すこしたかいですね。もうすこしやすくなりませんか？",
+    "korean": "조금 비싸네요. 조금 더 싸게 해주실 수 없나요?",
+    "situation": "가격 흥정을 시도할 때 사용하는 표현입니다. 단, 일본 소매점에서는 흥정이 일반적이지 않습니다."
+  },
+  {
+    "id": "p-shopping-007",
+    "category": "shopping",
+    "japanese": "これにします。",
+    "reading": "これにします。",
+    "korean": "이것으로 하겠습니다.",
+    "situation": "고민 끝에 구매할 상품을 결정했을 때 직원에게 알리는 표현입니다."
+  },
+  {
+    "id": "p-shopping-008",
+    "category": "shopping",
+    "japanese": "袋に入れてもらえますか？",
+    "reading": "ふくろにいれてもらえますか？",
+    "korean": "봉투에 넣어 주시겠어요?",
+    "situation": "구매한 상품을 봉투에 담아달라고 요청할 때 사용합니다. 일본은 유료 봉투인 경우가 많습니다."
+  },
+  {
+    "id": "p-shopping-009",
+    "category": "shopping",
+    "japanese": "プレゼント用に包んでいただけますか？",
+    "reading": "プレゼントようにつつんでいただけますか？",
+    "korean": "선물용으로 포장해 주시겠어요?",
+    "situation": "선물로 구매하는 경우 포장을 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-010",
+    "category": "shopping",
+    "japanese": "これは返品できますか？",
+    "reading": "これはへんぴんできますか？",
+    "korean": "이것은 반품할 수 있나요?",
+    "situation": "구매한 상품을 반품하고 싶을 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-011",
+    "category": "shopping",
+    "japanese": "交換してもらえますか？",
+    "reading": "こうかんしてもらえますか？",
+    "korean": "교환해 주시겠어요?",
+    "situation": "구매한 상품에 문제가 있거나 사이즈가 다를 경우 교환을 요청하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-012",
+    "category": "shopping",
+    "japanese": "セール品はありますか？",
+    "reading": "セールひんはありますか？",
+    "korean": "세일 상품이 있나요?",
+    "situation": "할인 판매 중인 상품이 있는지 물어볼 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-013",
+    "category": "shopping",
+    "japanese": "これは免税になりますか？",
+    "reading": "これはめんぜいになりますか？",
+    "korean": "이것은 면세가 되나요?",
+    "situation": "면세 혜택을 받을 수 있는 상품인지 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-014",
+    "category": "shopping",
+    "japanese": "ポイントカードはありますか？",
+    "reading": "ポイントカードはありますか？",
+    "korean": "포인트 카드 있으세요?",
+    "situation": "계산 시 직원이 포인트 카드 소지 여부를 확인하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-015",
+    "category": "shopping",
+    "japanese": "PayPayは使えますか？",
+    "reading": "PayPayはつかえますか？",
+    "korean": "페이페이 사용 가능한가요?",
+    "situation": "일본의 대표적인 모바일 결제 서비스인 PayPay 사용 가능 여부를 확인하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-016",
+    "category": "shopping",
+    "japanese": "これはいつ入荷しますか？",
+    "reading": "これはいつにゅうかしますか？",
+    "korean": "이것은 언제 입고되나요?",
+    "situation": "원하는 상품이 품절된 경우 재입고 시기를 물어보는 표현입니다."
+  },
+  {
+    "id": "p-shopping-017",
+    "category": "shopping",
+    "japanese": "領収書はいりますか？",
+    "reading": "りょうしゅうしょはいりますか？",
+    "korean": "영수증 필요하세요?",
+    "situation": "계산 시 직원이 영수증 필요 여부를 확인하는 표현입니다."
+  },
+  {
+    "id": "p-shopping-018",
+    "category": "shopping",
+    "japanese": "お釣りが違うと思うのですが。",
+    "reading": "おつりがちがうとおもうのですが。",
+    "korean": "거스름돈이 틀린 것 같은데요.",
+    "situation": "계산 후 거스름돈이 잘못 나왔을 때 직원에게 정중하게 알리는 표현입니다."
+  },
+  {
+    "id": "p-shopping-019",
+    "category": "shopping",
+    "japanese": "まとめて買ったら安くなりますか？",
+    "reading": "まとめてかったらやすくなりますか？",
+    "korean": "여러 개 사면 싸지나요?",
+    "situation": "대량 구매 시 할인 여부를 물을 때 사용합니다. 주로 시장이나 개인 가게에서 통합니다."
+  },
+  {
+    "id": "p-shopping-020",
+    "category": "shopping",
+    "japanese": "今日は見るだけです。",
+    "reading": "きょうはみるだけです。",
+    "korean": "오늘은 구경만 할게요.",
+    "situation": "직원의 접근이나 설명이 부담스러울 때 구매 의사 없이 둘러보고 있다는 표현입니다."
+  }
+]

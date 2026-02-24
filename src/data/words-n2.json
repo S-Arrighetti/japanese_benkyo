@@ -1,0 +1,542 @@
+[
+  {
+    "id": "w-n2-001",
+    "japanese": "意識",
+    "reading": "いしき",
+    "korean": "의식",
+    "level": "N2",
+    "example": "環境問題に対する意識が高まっています。",
+    "exampleKorean": "환경 문제에 대한 의식이 높아지고 있습니다."
+  },
+  {
+    "id": "w-n2-002",
+    "japanese": "把握",
+    "reading": "はあく",
+    "korean": "파악",
+    "level": "N2",
+    "example": "現状を正確に把握することが重要です。",
+    "exampleKorean": "현황을 정확히 파악하는 것이 중요합니다."
+  },
+  {
+    "id": "w-n2-003",
+    "japanese": "促進",
+    "reading": "そくしん",
+    "korean": "촉진",
+    "level": "N2",
+    "example": "政府は経済成長を促進するための政策を実施した。",
+    "exampleKorean": "정부는 경제 성장을 촉진하기 위한 정책을 실시했다."
+  },
+  {
+    "id": "w-n2-004",
+    "japanese": "曖昧",
+    "reading": "あいまい",
+    "korean": "애매",
+    "level": "N2",
+    "example": "彼の返答は曖昧で、意図がよく分からなかった。",
+    "exampleKorean": "그의 대답은 애매해서 의도를 잘 알 수 없었다."
+  },
+  {
+    "id": "w-n2-005",
+    "japanese": "懸念",
+    "reading": "けねん",
+    "korean": "우려",
+    "level": "N2",
+    "example": "専門家は気候変動について深刻な懸念を示している。",
+    "exampleKorean": "전문가들은 기후 변화에 대해 심각한 우려를 나타내고 있다."
+  },
+  {
+    "id": "w-n2-006",
+    "japanese": "妥協",
+    "reading": "だきょう",
+    "korean": "타협",
+    "level": "N2",
+    "example": "交渉の末、双方が妥協点を見つけた。",
+    "exampleKorean": "협상 끝에 양측이 타협점을 찾았다."
+  },
+  {
+    "id": "w-n2-007",
+    "japanese": "概念",
+    "reading": "がいねん",
+    "korean": "개념",
+    "level": "N2",
+    "example": "この概念は哲学の分野では非常に重要です。",
+    "exampleKorean": "이 개념은 철학 분야에서 매우 중요합니다."
+  },
+  {
+    "id": "w-n2-008",
+    "japanese": "貢献",
+    "reading": "こうけん",
+    "korean": "공헌",
+    "level": "N2",
+    "example": "彼女は長年にわたり社会に大きく貢献してきた。",
+    "exampleKorean": "그녀는 오랜 세월 동안 사회에 크게 공헌해왔다."
+  },
+  {
+    "id": "w-n2-009",
+    "japanese": "傾向",
+    "reading": "けいこう",
+    "korean": "경향",
+    "level": "N2",
+    "example": "最近、若者の間で読書離れの傾向が見られる。",
+    "exampleKorean": "최근 젊은 층 사이에서 독서 기피 경향이 보인다."
+  },
+  {
+    "id": "w-n2-010",
+    "japanese": "柔軟",
+    "reading": "じゅうなん",
+    "korean": "유연",
+    "level": "N2",
+    "example": "この会社は柔軟な働き方を推奨しています。",
+    "exampleKorean": "이 회사는 유연한 근무 방식을 권장하고 있습니다."
+  },
+  {
+    "id": "w-n2-011",
+    "japanese": "模索",
+    "reading": "もさく",
+    "korean": "모색",
+    "level": "N2",
+    "example": "新しいビジネスモデルを模索している段階です。",
+    "exampleKorean": "새로운 비즈니스 모델을 모색하고 있는 단계입니다."
+  },
+  {
+    "id": "w-n2-012",
+    "japanese": "抽象的",
+    "reading": "ちゅうしょうてき",
+    "korean": "추상적",
+    "level": "N2",
+    "example": "この説明は少し抽象的で分かりにくいです。",
+    "exampleKorean": "이 설명은 조금 추상적이어서 이해하기 어렵습니다."
+  },
+  {
+    "id": "w-n2-013",
+    "japanese": "著しい",
+    "reading": "いちじるしい",
+    "korean": "현저하다",
+    "level": "N2",
+    "example": "近年、技術の進歩は著しい。",
+    "exampleKorean": "최근 몇 년간 기술의 진보가 현저하다."
+  },
+  {
+    "id": "w-n2-014",
+    "japanese": "緩和",
+    "reading": "かんわ",
+    "korean": "완화",
+    "level": "N2",
+    "example": "規制の緩和により、新規参入が増えた。",
+    "exampleKorean": "규제 완화로 인해 신규 진입이 늘었다."
+  },
+  {
+    "id": "w-n2-015",
+    "japanese": "維持",
+    "reading": "いじ",
+    "korean": "유지",
+    "level": "N2",
+    "example": "健康を維持するために毎日運動しています。",
+    "exampleKorean": "건강을 유지하기 위해 매일 운동하고 있습니다."
+  },
+  {
+    "id": "w-n2-016",
+    "japanese": "妨げる",
+    "reading": "さまたげる",
+    "korean": "방해하다",
+    "level": "N2",
+    "example": "騒音が集中を妨げることがある。",
+    "exampleKorean": "소음이 집중을 방해할 때가 있다."
+  },
+  {
+    "id": "w-n2-017",
+    "japanese": "踏まえる",
+    "reading": "ふまえる",
+    "korean": "바탕으로 하다, 감안하다",
+    "level": "N2",
+    "example": "以上の点を踏まえた上で判断してください。",
+    "exampleKorean": "이상의 점을 감안하여 판단해 주십시오."
+  },
+  {
+    "id": "w-n2-018",
+    "japanese": "兼ねる",
+    "reading": "かねる",
+    "korean": "겸하다",
+    "level": "N2",
+    "example": "彼は社長と会長を兼ねている。",
+    "exampleKorean": "그는 사장과 회장을 겸하고 있다."
+  },
+  {
+    "id": "w-n2-019",
+    "japanese": "貫く",
+    "reading": "つらぬく",
+    "korean": "관철하다, 일관하다",
+    "level": "N2",
+    "example": "困難な状況でも自分の信念を貫いた。",
+    "exampleKorean": "어려운 상황에서도 자신의 신념을 관철했다."
+  },
+  {
+    "id": "w-n2-020",
+    "japanese": "見直す",
+    "reading": "みなおす",
+    "korean": "재검토하다",
+    "level": "N2",
+    "example": "現行の制度を根本から見直す必要がある。",
+    "exampleKorean": "현행 제도를 근본적으로 재검토할 필요가 있다."
+  },
+  {
+    "id": "w-n2-021",
+    "japanese": "矛盾",
+    "reading": "むじゅん",
+    "korean": "모순",
+    "level": "N2",
+    "example": "彼の発言には明らかな矛盾がある。",
+    "exampleKorean": "그의 발언에는 명백한 모순이 있다."
+  },
+  {
+    "id": "w-n2-022",
+    "japanese": "抵抗",
+    "reading": "ていこう",
+    "korean": "저항",
+    "level": "N2",
+    "example": "新しい制度に対して多くの抵抗があった。",
+    "exampleKorean": "새로운 제도에 대해 많은 저항이 있었다."
+  },
+  {
+    "id": "w-n2-023",
+    "japanese": "拡充",
+    "reading": "かくじゅう",
+    "korean": "확충",
+    "level": "N2",
+    "example": "医療設備の拡充が急務となっている。",
+    "exampleKorean": "의료 시설의 확충이 시급한 과제가 되고 있다."
+  },
+  {
+    "id": "w-n2-024",
+    "japanese": "偏る",
+    "reading": "かたよる",
+    "korean": "편중되다, 치우치다",
+    "level": "N2",
+    "example": "情報が偏ると、誤った判断をしてしまう恐れがある。",
+    "exampleKorean": "정보가 편중되면 잘못된 판단을 할 우려가 있다."
+  },
+  {
+    "id": "w-n2-025",
+    "japanese": "卓越",
+    "reading": "たくえつ",
+    "korean": "탁월",
+    "level": "N2",
+    "example": "彼女は卓越した才能を持つ音楽家だ。",
+    "exampleKorean": "그녀는 탁월한 재능을 가진 음악가다."
+  },
+  {
+    "id": "w-n2-026",
+    "japanese": "補償",
+    "reading": "ほしょう",
+    "korean": "보상",
+    "level": "N2",
+    "example": "被害者に対して適切な補償が行われた。",
+    "exampleKorean": "피해자에 대해 적절한 보상이 이루어졌다."
+  },
+  {
+    "id": "w-n2-027",
+    "japanese": "執着",
+    "reading": "しゅうちゃく",
+    "korean": "집착",
+    "level": "N2",
+    "example": "過去への執着が前進を妨げることがある。",
+    "exampleKorean": "과거에 대한 집착이 앞으로 나아가는 것을 방해할 수 있다."
+  },
+  {
+    "id": "w-n2-028",
+    "japanese": "余裕",
+    "reading": "よゆう",
+    "korean": "여유",
+    "level": "N2",
+    "example": "締め切りまで少し余裕があります。",
+    "exampleKorean": "마감까지 조금 여유가 있습니다."
+  },
+  {
+    "id": "w-n2-029",
+    "japanese": "浮かび上がる",
+    "reading": "うかびあがる",
+    "korean": "부각되다, 떠오르다",
+    "level": "N2",
+    "example": "調査の結果、新たな問題が浮かび上がってきた。",
+    "exampleKorean": "조사 결과 새로운 문제가 부각되었다."
+  },
+  {
+    "id": "w-n2-030",
+    "japanese": "克服",
+    "reading": "こくふく",
+    "korean": "극복",
+    "level": "N2",
+    "example": "多くの困難を克服して、ついに成功を手にした。",
+    "exampleKorean": "많은 어려움을 극복하고 마침내 성공을 거머쥐었다."
+  },
+  {
+    "id": "w-n2-031",
+    "japanese": "慎重",
+    "reading": "しんちょう",
+    "korean": "신중",
+    "level": "N2",
+    "example": "重大な決断には慎重なアプローチが求められる。",
+    "exampleKorean": "중대한 결단에는 신중한 접근이 요구된다."
+  },
+  {
+    "id": "w-n2-032",
+    "japanese": "整備",
+    "reading": "せいび",
+    "korean": "정비",
+    "level": "N2",
+    "example": "インフラの整備が地方の発展に不可欠だ。",
+    "exampleKorean": "인프라 정비가 지방 발전에 필수적이다."
+  },
+  {
+    "id": "w-n2-033",
+    "japanese": "顕著",
+    "reading": "けんちょ",
+    "korean": "현저",
+    "level": "N2",
+    "example": "治療の効果が顕著に現れてきた。",
+    "exampleKorean": "치료 효과가 현저하게 나타났다."
+  },
+  {
+    "id": "w-n2-034",
+    "japanese": "抑制",
+    "reading": "よくせい",
+    "korean": "억제",
+    "level": "N2",
+    "example": "感情を抑制することが交渉では重要だ。",
+    "exampleKorean": "협상에서는 감정을 억제하는 것이 중요하다."
+  },
+  {
+    "id": "w-n2-035",
+    "japanese": "普及",
+    "reading": "ふきゅう",
+    "korean": "보급",
+    "level": "N2",
+    "example": "スマートフォンの普及により生活が大きく変わった。",
+    "exampleKorean": "스마트폰의 보급으로 생활이 크게 변했다."
+  },
+  {
+    "id": "w-n2-036",
+    "japanese": "依存",
+    "reading": "いぞん",
+    "korean": "의존",
+    "level": "N2",
+    "example": "エネルギーの外国依存を減らす努力が続いている。",
+    "exampleKorean": "에너지의 외국 의존을 줄이려는 노력이 계속되고 있다."
+  },
+  {
+    "id": "w-n2-037",
+    "japanese": "妥当",
+    "reading": "だとう",
+    "korean": "타당",
+    "level": "N2",
+    "example": "その判断は状況から見て妥当だと思われる。",
+    "exampleKorean": "그 판단은 상황으로 볼 때 타당하다고 생각된다."
+  },
+  {
+    "id": "w-n2-038",
+    "japanese": "批判",
+    "reading": "ひはん",
+    "korean": "비판",
+    "level": "N2",
+    "example": "政府の政策に対して厳しい批判が向けられた。",
+    "exampleKorean": "정부의 정책에 대해 강한 비판이 쏟아졌다."
+  },
+  {
+    "id": "w-n2-039",
+    "japanese": "促す",
+    "reading": "うながす",
+    "korean": "촉구하다, 재촉하다",
+    "level": "N2",
+    "example": "国際社会は早期解決を促す声明を発表した。",
+    "exampleKorean": "국제 사회는 조기 해결을 촉구하는 성명을 발표했다."
+  },
+  {
+    "id": "w-n2-040",
+    "japanese": "著者",
+    "reading": "ちょしゃ",
+    "korean": "저자",
+    "level": "N2",
+    "example": "この本の著者は世界的に有名な経済学者です。",
+    "exampleKorean": "이 책의 저자는 세계적으로 유명한 경제학자입니다."
+  },
+  {
+    "id": "w-n2-041",
+    "japanese": "縮小",
+    "reading": "しゅくしょう",
+    "korean": "축소",
+    "level": "N2",
+    "example": "事業の縮小に伴い、人員削減が行われた。",
+    "exampleKorean": "사업 축소에 따라 인원 감축이 이루어졌다."
+  },
+  {
+    "id": "w-n2-042",
+    "japanese": "欠陥",
+    "reading": "けっかん",
+    "korean": "결함",
+    "level": "N2",
+    "example": "製品に欠陥が見つかり、リコールが実施された。",
+    "exampleKorean": "제품에 결함이 발견되어 리콜이 실시되었다."
+  },
+  {
+    "id": "w-n2-043",
+    "japanese": "担う",
+    "reading": "になう",
+    "korean": "담당하다, 짊어지다",
+    "level": "N2",
+    "example": "若い世代が社会の未来を担っている。",
+    "exampleKorean": "젊은 세대가 사회의 미래를 짊어지고 있다."
+  },
+  {
+    "id": "w-n2-044",
+    "japanese": "厳格",
+    "reading": "げんかく",
+    "korean": "엄격",
+    "level": "N2",
+    "example": "この国では食品安全に関する厳格な基準が設けられている。",
+    "exampleKorean": "이 나라에서는 식품 안전에 관한 엄격한 기준이 마련되어 있다."
+  },
+  {
+    "id": "w-n2-045",
+    "japanese": "解釈",
+    "reading": "かいしゃく",
+    "korean": "해석",
+    "level": "N2",
+    "example": "法律の解釈は状況によって異なる場合がある。",
+    "exampleKorean": "법률의 해석은 상황에 따라 달라질 수 있다."
+  },
+  {
+    "id": "w-n2-046",
+    "japanese": "振り返る",
+    "reading": "ふりかえる",
+    "korean": "되돌아보다",
+    "level": "N2",
+    "example": "年末に一年を振り返ることは大切なことだ。",
+    "exampleKorean": "연말에 한 해를 되돌아보는 것은 중요한 일이다."
+  },
+  {
+    "id": "w-n2-047",
+    "japanese": "徹底",
+    "reading": "てってい",
+    "korean": "철저",
+    "level": "N2",
+    "example": "安全管理の徹底が事故防止につながる。",
+    "exampleKorean": "안전 관리의 철저함이 사고 방지로 이어진다."
+  },
+  {
+    "id": "w-n2-048",
+    "japanese": "見込み",
+    "reading": "みこみ",
+    "korean": "전망, 예상",
+    "level": "N2",
+    "example": "来年度の売上は増加する見込みです。",
+    "exampleKorean": "내년도 매출은 증가할 전망입니다."
+  },
+  {
+    "id": "w-n2-049",
+    "japanese": "根拠",
+    "reading": "こんきょ",
+    "korean": "근거",
+    "level": "N2",
+    "example": "その主張には科学的な根拠がありません。",
+    "exampleKorean": "그 주장에는 과학적 근거가 없습니다."
+  },
+  {
+    "id": "w-n2-050",
+    "japanese": "拘束",
+    "reading": "こうそく",
+    "korean": "구속",
+    "level": "N2",
+    "example": "契約によって一定期間の行動が拘束される。",
+    "exampleKorean": "계약에 의해 일정 기간의 행동이 구속된다."
+  },
+  {
+    "id": "w-n2-051",
+    "japanese": "著しく",
+    "reading": "いちじるしく",
+    "korean": "현저하게",
+    "level": "N2",
+    "example": "労働環境は著しく改善された。",
+    "exampleKorean": "노동 환경이 현저하게 개선되었다."
+  },
+  {
+    "id": "w-n2-052",
+    "japanese": "暫定",
+    "reading": "ざんてい",
+    "korean": "잠정",
+    "level": "N2",
+    "example": "暫定的な措置として規制が強化された。",
+    "exampleKorean": "잠정적인 조치로서 규제가 강화되었다."
+  },
+  {
+    "id": "w-n2-053",
+    "japanese": "浸透",
+    "reading": "しんとう",
+    "korean": "침투, 보급",
+    "level": "N2",
+    "example": "新しい価値観が社会に徐々に浸透している。",
+    "exampleKorean": "새로운 가치관이 사회에 서서히 침투하고 있다."
+  },
+  {
+    "id": "w-n2-054",
+    "japanese": "相互",
+    "reading": "そうご",
+    "korean": "상호",
+    "level": "N2",
+    "example": "両国の相互理解を深めるための交流が続いている。",
+    "exampleKorean": "양국의 상호 이해를 높이기 위한 교류가 계속되고 있다."
+  },
+  {
+    "id": "w-n2-055",
+    "japanese": "措置",
+    "reading": "そち",
+    "korean": "조치",
+    "level": "N2",
+    "example": "緊急措置として道路が一時閉鎖された。",
+    "exampleKorean": "긴급 조치로 도로가 일시 폐쇄되었다."
+  },
+  {
+    "id": "w-n2-056",
+    "japanese": "踏み切る",
+    "reading": "ふみきる",
+    "korean": "단행하다, 결단하다",
+    "level": "N2",
+    "example": "経営陣はついて大幅な組織改革に踏み切った。",
+    "exampleKorean": "경영진은 마침내 대폭적인 조직 개편을 단행했다."
+  },
+  {
+    "id": "w-n2-057",
+    "japanese": "概ね",
+    "reading": "おおむね",
+    "korean": "대체로, 대략",
+    "level": "N2",
+    "example": "計画は概ね順調に進んでいます。",
+    "exampleKorean": "계획은 대체로 순조롭게 진행되고 있습니다."
+  },
+  {
+    "id": "w-n2-058",
+    "japanese": "漠然",
+    "reading": "ばくぜん",
+    "korean": "막연",
+    "level": "N2",
+    "example": "将来について漠然とした不安を感じている。",
+    "exampleKorean": "장래에 대해 막연한 불안을 느끼고 있다."
+  },
+  {
+    "id": "w-n2-059",
+    "japanese": "強調",
+    "reading": "きょうちょう",
+    "korean": "강조",
+    "level": "N2",
+    "example": "報告書はチームワークの重要性を強調している。",
+    "exampleKorean": "보고서는 팀워크의 중요성을 강조하고 있다."
+  },
+  {
+    "id": "w-n2-060",
+    "japanese": "潜在",
+    "reading": "せんざい",
+    "korean": "잠재",
+    "level": "N2",
+    "example": "この市場には大きな潜在的需要がある。",
+    "exampleKorean": "이 시장에는 큰 잠재적 수요가 있다."
+  }
+]
