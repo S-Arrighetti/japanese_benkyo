@@ -21,7 +21,7 @@ export default function DailyPage() {
   const [wordIdx, setWordIdx] = useState(0)
   const [kanjiIdx, setKanjiIdx] = useState(0)
 
-  const todayWords = useMemo(() => getDailyWords(allWords, 5), [])
+  const todayWords = useMemo(() => getDailyWords(allWords, 30), [])
   const todayKanjis = useMemo(() => getDailyKanjis(allKanjis, 3), [])
 
   const markDayComplete = useProgressStore(s => s.markDayComplete)
