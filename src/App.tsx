@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div className="flex flex-col h-full bg-gray-900 text-white">
       <Header />
-      <main className="flex-1 overflow-hidden">
+      <main className="flex-1 flex flex-col overflow-hidden">
         {tab === 'daily' && <DailyPage />}
         {tab === 'phrase' && <PhrasePage />}
         {tab === 'review' && <ReviewPage />}

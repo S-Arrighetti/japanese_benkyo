@@ -37,7 +37,7 @@ export default function ReviewPage() {
   const isEmpty = showWords.length === 0 && showKanjis.length === 0
 
   return (
-    <div className="flex flex-col h-full">
+    <div className="flex-1 flex flex-col">
       {/* 탭 */}
       <div className="flex bg-gray-800 mx-4 mt-4 mb-3 rounded-xl p-1 gap-1 shrink-0">
         <button

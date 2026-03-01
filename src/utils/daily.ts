@@ -25,12 +25,12 @@ export function todayStr(): string {
   return new Date().toISOString().slice(0, 10) // "YYYY-MM-DD"
 }
 
-export function getDailyWords(allWords: Word[], count = 5): Word[] {
+export function getDailyWords(allWords: Word[], count = 30): Word[] {
   const hash = dateHash(todayStr())
   return pickN(allWords, count, hash)
 }
 
-export function getDailyKanjis(allKanjis: Kanji[], count = 3): Kanji[] {
+export function getDailyKanjis(allKanjis: Kanji[], count = 10): Kanji[] {
   const hash = dateHash(todayStr() + 'kanji')
   return pickN(allKanjis, count, hash)
 }

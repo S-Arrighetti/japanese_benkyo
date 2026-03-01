@@ -22,7 +22,7 @@ export default function PhrasePage() {
   const filtered = phrases.filter(p => p.category === activeCategory)
 
   return (
-    <div className="flex flex-col h-full overflow-hidden">
+    <div className="flex-1 flex flex-col overflow-hidden">
       {/* 카테고리 탭 — 가로 스크롤, 스크롤바 숨김 */}
       <div
         className="flex gap-2 px-4 py-3 shrink-0"
@@ -46,7 +46,7 @@ export default function PhrasePage() {
 
       {/* 표현 리스트 */}
       <div
-        className="flex-1 px-4 pb-6 flex flex-col gap-2"
+        className="flex-1 min-h-0 px-4 pb-6 flex flex-col gap-2"
         style={{ overflowY: 'auto', WebkitOverflowScrolling: 'touch' }}
       >
         {filtered.map(phrase => {

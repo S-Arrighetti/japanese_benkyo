@@ -59,7 +59,7 @@ export default function DailyPage() {
   }
 
   return (
-    <div className="flex flex-col h-full px-4 py-4 gap-4">
+    <div className="flex-1 flex flex-col px-4 py-4 gap-4">
       {/* 섹션 토글 */}
       <div className="flex bg-gray-800 rounded-xl p-1 gap-1">
         {(['words', 'kanji'] as Section[]).map(s => (
